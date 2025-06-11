@@ -1,0 +1,26 @@
+{
+  "extraction": {
+    "confidence_threshold": 0.5,
+    "max_concepts": 10,
+    "min_concept_length": 3,
+    "use_patterns": true,
+    "use_fuzzy_matching": true,
+    "rake_max_phrases": 15,
+    "output_format": "csv"
+  },
+  "directories": {
+    "resources_dir": "resources",
+    "dictionaries_dir": "dictionaries",
+    "output_dir": "output",
+    "logs_dir": "logs",
+    "batch_output_dir": "batch_output"
+  },
+  "llm": {
+    "provider": "simulated",
+    "model": "gpt-3.5-turbo",
+    "api_key": null,
+    "temperature": 0.3,
+    "max_tokens": 150,
+    "timeout": 30
+  }
+}
