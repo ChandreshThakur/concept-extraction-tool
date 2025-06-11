@@ -1,0 +1,191 @@
+keyword,concept
+newton's first law,Laws of Motion
+newton,Classical Mechanics
+motion,Kinematics and Dynamics
+force,Force and Motion
+mass,Mass and Weight
+acceleration,Kinematics
+speed of light,Electromagnetic Theory
+vacuum,Wave Properties
+particle,Particle Physics
+electric charge,Electrostatics
+proton,Atomic Structure
+electron,Atomic Structure
+neutron,Atomic Structure
+electric current,Current Electricity
+volt,Electrical Units
+ampere,Electrical Units
+ohm,Electrical Resistance
+lens,Optics
+nearsightedness,Vision and Optics
+convex lens,Lens Types
+concave lens,Lens Types
+work,Work and Energy
+energy,Work and Energy
+power,Work and Energy
+watt,Electrical Units
+joule,Energy Units
+kinetic energy,Mechanical Energy
+potential energy,Mechanical Energy
+gravitational field,Gravitation
+magnetic field,Magnetism
+electric field,Electrostatics
+coulomb's law,Electrostatics
+ohm's law,Electrical Resistance
+snell's law,Optics
+reflection,Wave Optics
+refraction,Wave Optics
+diffraction,Wave Optics
+interference,Wave Optics
+resonance,Oscillations
+simple harmonic motion,Oscillations
+frequency,Wave Properties
+wavelength,Wave Properties
+period,Oscillations
+amplitude,Vibrations
+wave speed,Wave Properties
+doppler effect,Wave Properties
+thermodynamics,Heat and Thermodynamics
+first law of thermodynamics,Thermodynamics
+second law of thermodynamics,Thermodynamics
+entropy,Thermodynamics
+temperature,Heat and Temperature
+heat capacity,Thermal Properties
+specific heat,Thermal Properties
+latent heat,Thermal Properties
+conduction,Thermal Transfer
+convection,Thermal Transfer
+radiation,Thermal Transfer
+blackbody radiation,Quantum Physics
+photoelectric effect,Quantum Physics
+compton scattering,Quantum Physics
+de broglie wavelength,Quantum Mechanics
+heisenberg uncertainty principle,Quantum Mechanics
+schrodinger equation,Quantum Mechanics
+quantum tunneling,Quantum Mechanics
+nuclear fission,Nuclear Physics
+nuclear fusion,Nuclear Physics
+radioactivity,Nuclear Physics
+half life,Nuclear Physics
+alpha decay,Nuclear Physics
+beta decay,Nuclear Physics
+gamma rays,Nuclear Physics
+relativity,Relativity
+time dilation,Relativity
+length contraction,Relativity
+mass-energy equivalence,Relativity
+E=mc^2,Relativity
+inertia,Classical Mechanics
+center of mass,Mechanics
+torque,Rotational Dynamics
+angular momentum,Rotational Dynamics
+moment of inertia,Rotational Dynamics
+centripetal force,Circular Motion
+centrifugal force,Circular Motion
+equilibrium,Statics
+tension,Statics
+friction,Force and Motion
+normal force,Force and Motion
+free body diagram,Force and Motion
+projectile motion,Kinematics
+uniform circular motion,Circular Motion
+work-energy theorem,Work and Energy
+conservation of energy,Energy Principles
+conservation of momentum,Dynamics
+elastic collision,Dynamics
+inelastic collision,Dynamics
+capacitance,Electrostatics
+capacitor,Electrostatics
+inductor,Electromagnetic Induction
+resistor,Circuit Theory
+diode,Electronics
+transistor,Electronics
+logic gates,Digital Electronics
+superconductivity,Condensed Matter Physics
+semiconductor,Solid State Physics
+band gap,Solid State Physics
+crystal lattice,Material Science
+x-ray diffraction,Material Characterization
+hubble's law,Astrophysics
+big bang,Astrophysics
+black hole,Astrophysics
+dark matter,Cosmology
+dark energy,Cosmology
+gravitational lensing,Astrophysics
+planck's constant,Quantum Mechanics
+wave-particle duality,Quantum Physics
+uncertainty,Quantum Mechanics
+quantization,Quantum Physics
+bohr model,Atomic Physics
+rutherford model,Atomic Physics
+millikan experiment,Electrostatics
+lattice vibrations,Condensed Matter Physics
+phonons,Solid State Physics
+feynman diagram,Quantum Field Theory
+lepton,Particle Physics
+boson,Particle Physics
+hadron,Particle Physics
+gluon,Quantum Chromodynamics
+quark,Particle Physics
+muon,Particle Physics
+antiparticle,Antimatter
+annihilation,Antimatter
+string theory,Theoretical Physics
+brane,Theoretical Physics
+multiverse,Cosmology
+event horizon,Astrophysics
+singularity,Astrophysics
+hawking radiation,Astrophysics
+redshift,Cosmology
+blueshift,Astronomical Spectroscopy
+kepler's laws,Orbital Mechanics
+escape velocity,Orbital Mechanics
+orbital speed,Orbital Mechanics
+satellite motion,Orbital Mechanics
+solar radiation pressure,Space Physics
+cosmic microwave background,Cosmology
+neutrino,Particle Physics
+standard model,Particle Physics
+symmetry breaking,Theoretical Physics
+higgs boson,Particle Physics
+grand unified theory,Theoretical Physics
+inflation theory,Cosmology
+big crunch,Cosmology
+cosmic inflation,Cosmology
+twin paradox,Relativity
+frame of reference,Relativity
+lorentz transformation,Relativity
+baryon,Particle Physics
+tachyon,Theoretical Physics
+graviton,Quantum Gravity
+laser,Applied Optics
+fiber optics,Optical Communication
+diffraction grating,Wave Optics
+spectrometer,Measurement Devices
+thermocouple,Measurement Devices
+barometer,Measurement Devices
+manometer,Measurement Devices
+seismometer,Geophysics
+gyroscope,Rotational Mechanics
+vacuum tube,Electronics
+photodiode,Optoelectronics
+solar cell,Energy Conversion
+LED,Optoelectronics
+MRI,Nuclear Magnetic Resonance
+X-ray,Medical Physics
+CT scan,Medical Physics
+ultrasound,Medical Imaging
+cyclotron,Particle Accelerators
+synchrotron,Particle Accelerators
+linear accelerator,Particle Accelerators
+tokamak,Fusion Research
+plasma,Plasma Physics
+ionization,Atomic Physics
+recombination,Atomic Physics
+ferromagnetism,Magnetism
+paramagnetism,Magnetism
+diamagnetism,Magnetism
+magnetic domains,Magnetism
+eddy currents,Electromagnetic Induction
+larmor frequency,Nuclear Physics
+precession,Rotational Mechanics

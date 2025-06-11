@@ -1,0 +1,48 @@
+{
+  "timestamp": "20250611_190626",
+  "total_subjects_processed": 2,
+  "successful_subjects": 2,
+  "failed_subjects": 0,
+  "subject_details": {
+    "ancient_history": {
+      "total_questions": 5,
+      "questions_with_concepts": 5,
+      "coverage_percentage": 100.0,
+      "processing_time_seconds": 0.017412,
+      "unique_concepts_count": 26,
+      "most_common_concepts": {
+        "Indus Valley Civilization": 1,
+        "Historical Place – Well": 1,
+        "Rock Art and Archaeology": 1,
+        "Terracotta Art": 1,
+        "Copper Age Technology": 1,
+        "Ancient Art and Crafts": 1,
+        "Land Revenue Set Aside": 1,
+        "Following Pairs :\\ Neripatti": 1,
+        "Land Revenue Systems": 1,
+        "Village Institutions": 1
+      }
+    },
+    "economics": {
+      "total_questions": 5,
+      "questions_with_concepts": 5,
+      "coverage_percentage": 100.0,
+      "processing_time_seconds": 0.003014,
+      "unique_concepts_count": 7,
+      "most_common_concepts": {
+        "Monetary Policy": 1,
+        "Balance of Payments": 1,
+        "Macroeconomic Theory": 1,
+        "Phillips Curve Shows": 1,
+        "Market Structures": 1,
+        "National Income Accounting": 1,
+        "Gdp Deflator Measure": 1
+      }
+    }
+  },
+  "overall_statistics": {
+    "total_questions_processed": 10,
+    "total_unique_concepts": 33,
+    "average_concepts_per_subject": 16.5
+  }
+}

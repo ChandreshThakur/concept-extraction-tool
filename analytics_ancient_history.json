@@ -1,0 +1,19 @@
+{
+  "subject": "ancient_history",
+  "extraction_method": "Enhanced Simulated LLM",
+  "processing_time_seconds": 0.008096,
+  "total_questions": 5,
+  "questions_with_concepts": 5,
+  "coverage_percentage": 100.0,
+  "concept_frequency": {
+    "Academic Knowledge": 3,
+    "Indus Valley Civilization": 1,
+    "Harappan Civilization": 1,
+    "Mesopotamian Civilization": 1,
+    "Ancient Period": 1
+  },
+  "timestamp": "2025-06-11T19:06:11.068273",
+  "avg_concepts_per_question": 1.4,
+  "max_concepts_single_question": 3,
+  "min_concepts_single_question": 1
+}

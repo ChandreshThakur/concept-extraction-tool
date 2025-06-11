@@ -1,0 +1,6 @@
+Question Number,Question,Option A,Option B,Option C,Option D,Answer
+1,"What is the derivative of sin(x)?","cos(x)","-cos(x)","tan(x)","-sin(x)",A
+2,"The integral of 1/x dx is:","ln|x| + C","x + C","1/x² + C","e^x + C",A
+3,"In a right triangle, if one angle is 30°, what is the ratio of the opposite side to the hypotenuse?","1/2","√3/2","√2/2","1",A
+4,"What is the sum of the first n natural numbers?","n(n+1)/2","n(n-1)/2","n²","n²/2",A
+5,"The quadratic formula is used to find:","Roots of quadratic equations","Slope of a line","Area of a circle","Volume of a sphere",A
